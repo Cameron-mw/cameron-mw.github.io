@@ -1,0 +1,38 @@
+body {
+    background: rgb(129,129,129);
+    background: linear-gradient(0deg, rgba(129,129,129,1) 0%, rgba(0,0,0,1) 50%);
+    background-attachment:fixed;
+    height:100%;
+  }
+  
+  h1 {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: black;
+    padding-top: 30px;
+    width: 100%;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+  
+  .navigation ul {
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .navigation li {
+    color: black;
+    font-weight: 100;
+    letter-spacing: 2px;
+    padding: 20px;
+  }
+  
+  p {
+    font-family: "Optima", sans-serif;
+    color: black;
+    font-size: 15px;
+    line-height: 1.3em;
+    text-align: center;
+    width: 100%;
+    }
