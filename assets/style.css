@@ -29,11 +29,13 @@ body {
     padding: 20px;
   }
   
-.img {
+.image {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
+  width: 60px;
+  top: 0px;
+  right: 0px;
 }
 
   p {
