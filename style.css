@@ -1,13 +1,13 @@
 body {
     background: rgb(129,129,129);
-    background: linear-gradient(0deg, rgba(129,129,129,1) 0%, rgba(0,0,0,1) 50%);
-    background-attachment:fixed;
-    height:100%;
+    background: linear-gradient(0deg, rgba(129,129,129,1) 0%, rgba(0,0,0,1) 30%);
+    background-attachment: fixed;
+    height: 100%;
   }
   
   h1 {
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-    color: black;
+    color: white;
     padding-top: 30px;
     width: 100%;
     letter-spacing: 2px;
@@ -15,14 +15,14 @@ body {
   }
   
   .navigation ul {
-    color: black;
+    color: white;
     margin: 0;
     padding: 0;
     text-align: center;
   }
   
   .navigation li {
-    color: black;
+    color: white;
     font-weight: 100;
     letter-spacing: 2px;
     padding: 20px;
@@ -30,7 +30,7 @@ body {
   
   p {
     font-family: "Optima", sans-serif;
-    color: black;
+    color: white;
     font-size: 15px;
     line-height: 1.3em;
     text-align: center;
