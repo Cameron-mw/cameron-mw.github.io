@@ -1,6 +1,6 @@
 body {
     background: rgb(129,129,129);
-    background: linear-gradient(0deg, rgba(129,129,129,1) 0%, rgba(0,0,0,1) 15%);
+    background: linear-gradient(0deg, rgba(129,129,129,1) 0%, rgba(36,36,36,1) 26%);
     background-attachment: fixed;
     height: 100%;
   }
@@ -29,7 +29,7 @@ body {
     padding: 20px;
   }
   
-img {
+.img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
