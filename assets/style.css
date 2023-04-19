@@ -29,13 +29,10 @@ body {
     padding: 20px;
   }
   
-.image {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 60px;
-  top: 0px;
-  right: 0px;
+.header {
+  background-image: "assets/i-dG8pmLX-X4.JPEG";
+  height: 40px;
+  background-position: center right;
 }
 
   p {
