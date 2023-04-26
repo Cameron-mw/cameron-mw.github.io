@@ -29,6 +29,10 @@ body {
     padding: 20px;
   }
   
+.image {
+    position: absolute;
+    left: 40px
+}
 
   p {
     font-family: "Optima", sans-serif;
