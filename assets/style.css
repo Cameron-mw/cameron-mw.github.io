@@ -1,6 +1,6 @@
 body {
-    background: rgb(129,129,129);
-    background: linear-gradient(0deg, rgba(129,129,129,1) 0%, rgba(36,36,36,1) 26%);
+    background: rgb(65,65,65);
+    background: linear-gradient(0deg, rgba(65,65,65,1) 0%, rgba(28,28,28,1) 22%);
     background-attachment: fixed;
     height: 100%;
   }
@@ -16,25 +16,38 @@ body {
   
   .navigation ul {
     color: white;
-    margin: 0;
-    padding: 0;
+    padding-top: 10%;
+    padding-right: 45%;
     text-align: center;
   }
   
   .navigation li {
     color: white;
+    list-style-type: none;
     font-weight: 100;
-    font-size: 15px;
+    font-size: 18px;
     letter-spacing: 3px;
     padding: 20px;
   }
+
+  a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
   
-.image {
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .image {
     position: absolute;
-    left: 40px;
-    height: 50px;
-    width: 50%;
-}
+    right: 170px;
+    top: 160px;
+    border: 5px solid #555;
+  }
 
   p {
     font-family: "Optima", sans-serif;
